@@ -1,0 +1,15 @@
+{
+    "name": "server_rest",
+    "version": "0.1.1",
+    "description": "Tarea para realizar servidor rest desde 0",
+    "main": "server/server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Daniel Nava",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "express": "^4.16.4"
+    }
+}
